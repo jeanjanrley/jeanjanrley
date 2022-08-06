@@ -1,6 +1,6 @@
 <h1>Olá, seja bem vindo!</h1>
 
-<p>Meu nome Jean Janrley, tenho 23 anos, moro em Camaçari – BA e curso Desenvolvimento de sistemas no Senai (06/2022 - 12/2023).</p><br/><br/>
+<p>Meu nome Jean Janrley, tenho 23 anos, moro em Camaçari – BA e curso Desenvolvimento de sistemas no Senai (06/2022 - 12/2023).</p>
 
 <p>Tenho dois anos de experiencia como desenvolvedor Front End e Mobile, mas sou amante de computação desde os 12 anos de idade, e desde então venho estudando sobre o assunto, buscando sempre me especializar na programação, tendo como principal objetivo me tornar um desenvolvedor Full Stack no futuro.</p>
 
