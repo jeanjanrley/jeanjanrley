@@ -1,8 +1,8 @@
-## Olá
+<h1>Olá, seja bem vindo!</h1>
 
-<p>
-  Meu nome é Jean Janrley, sou estudante de Desenvolvimento de sistemas no Senai, estudo programação desde os 12 anos de idade (Atualmente tenho 23) porém resolvi focar na área em 2020, busco me especializar em Javascript e suas tecnologias. Sou apaixonado por aprender e ensinar, estou sempre criando projetos.
-</p>
+<p>Meu nome Jean Janrley, tenho 23 anos, moro em Camaçari – BA e curso Desenvolvimento de sistemas no Senai (06/2022 - 12/2023).</p><br/><br/>
+
+<p>Tenho dois anos de experiencia como desenvolvedor Front End e Mobile, mas sou amante de computação desde os 12 anos de idade, e desde então venho estudando sobre o assunto, buscando sempre me especializar na programação, tendo como principal objetivo me tornar um desenvolvedor Full Stack no futuro.</p>
 
 ##
 
