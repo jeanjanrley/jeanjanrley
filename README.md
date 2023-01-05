@@ -4,6 +4,8 @@
 
 <p>Tenho dois anos de experiencia como desenvolvedor Front End e Mobile, mas sou amante de computação desde os 12 anos de idade, e desde então venho estudando sobre o assunto, buscando sempre me especializar na programação, tendo como principal objetivo me tornar um desenvolvedor Full Stack no futuro.</p>
 
+<p>OBS. COWIMI é o nome fantasia do meu MEI caso você fique em duvida ao ver logomarcas ou o nome da mesma nas coisas.</p>
+
 ##
 
 <div align="center">
